@@ -1,4 +1,4 @@
-qtumd-rpc.js
+berycoind-rpc.js
 ===============
 
 A client library to connect to QTUM Core RPC in JavaScript.
